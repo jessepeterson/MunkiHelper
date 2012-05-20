@@ -11,6 +11,8 @@
 		77631A3F0C0748CF005415CB /* main.py in Resources */ = {isa = PBXBuildFile; fileRef = 77631A3E0C0748CF005415CB /* main.py */; };
 		7790198F0C07548A00326F66 /* MunkiHelperAppDelegate.py in Resources */ = {isa = PBXBuildFile; fileRef = 7790198E0C07548A00326F66 /* MunkiHelperAppDelegate.py */; };
 		77C8C1F90C07829500965286 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 77C8C1F70C07829500965286 /* MainMenu.xib */; };
+		886335FB15699C790024DFFB /* MunkiHelperRepositoryImageView.py in Resources */ = {isa = PBXBuildFile; fileRef = 886335FA15699C790024DFFB /* MunkiHelperRepositoryImageView.py */; };
+		886336331569A6320024DFFB /* MunkiHelperPackageImageView.py in Resources */ = {isa = PBXBuildFile; fileRef = 886336321569A6320024DFFB /* MunkiHelperPackageImageView.py */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
 		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
@@ -28,6 +30,8 @@
 		77631A3E0C0748CF005415CB /* main.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
 		7790198E0C07548A00326F66 /* MunkiHelperAppDelegate.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = MunkiHelperAppDelegate.py; sourceTree = "<group>"; };
 		77C8C1F80C07829500965286 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = English.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		886335FA15699C790024DFFB /* MunkiHelperRepositoryImageView.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = MunkiHelperRepositoryImageView.py; sourceTree = "<group>"; };
+		886336321569A6320024DFFB /* MunkiHelperPackageImageView.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = MunkiHelperPackageImageView.py; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* MunkiHelper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MunkiHelper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -49,6 +53,8 @@
 			isa = PBXGroup;
 			children = (
 				7790198E0C07548A00326F66 /* MunkiHelperAppDelegate.py */,
+				886335FA15699C790024DFFB /* MunkiHelperRepositoryImageView.py */,
+				886336321569A6320024DFFB /* MunkiHelperPackageImageView.py */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -175,6 +181,8 @@
 				77631A3F0C0748CF005415CB /* main.py in Resources */,
 				7790198F0C07548A00326F66 /* MunkiHelperAppDelegate.py in Resources */,
 				77C8C1F90C07829500965286 /* MainMenu.xib in Resources */,
+				886335FB15699C790024DFFB /* MunkiHelperRepositoryImageView.py in Resources */,
+				886336331569A6320024DFFB /* MunkiHelperPackageImageView.py in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
